@@ -81,5 +81,5 @@ The **6T SRAM Cell** operates in three modes:
 - **Multi-Port SRAM for High-Performance Computing**
 
 ---
-### 🔗 **Author:** [Vinayak Venkappa Pujeri](https://github.com/your-github)
+### 🔗 **Author:** [Vinayak Venkappa Pujeri](https://github.com/vinayakvision)
 📧 Contact: vision.vinayak12@gmail.com
